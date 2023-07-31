@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["resources/js/*"],
+            "@devprenuer/ui-utils/*": ["packages/devprenuer-ui-utils/src/*"],
+        }
+    },
+    "exclude": ["node_modules", "public"]
+}

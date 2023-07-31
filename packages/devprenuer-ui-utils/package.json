@@ -1,0 +1,17 @@
+{
+  "name": "@devprenuer/ui-utils",
+  "version": "0.0.0",
+  "description": "A js ui util library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "browser",
+    "utils"
+  ],
+  "author": "Rich",
+  "license": "ISC"
+}
